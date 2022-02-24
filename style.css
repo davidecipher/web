@@ -1,0 +1,34 @@
+/* Layout */
+
+body {
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+   width: 95%;
+   max-width: 980px;
+   margin: 0 auto;
+}
+
+.columns {
+   display: flex;
+}
+
+.elephant_img {
+   background: #312614;
+   color: #fff;
+   padding: 3em;
+}
+
+.placeholder {
+   text-align: center;
+}
+
+
+.light_brown {
+   color: #b7832f;
+}
+
+.dark_brown {
+   color: #312614;
+}
